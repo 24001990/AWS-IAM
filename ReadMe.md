@@ -1,12 +1,9 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-
+## NAME : DODLA SUSMITHA
+## REGISTER NO: 212224110016
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
-## Author
 
-## Name: DODLA SUSMITHA
-
-## Register no:212224110016
 
 ## Objective
 The objective of this lab is to understand how AWS Identity and Access Management (IAM) controls authentication and authorization in AWS. The lab focuses on exploring IAM users and groups, analyzing attached policies, assigning users to appropriate groups based on organizational roles, and validating permissions by testing service access.
@@ -66,7 +63,6 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 <img width="1341" height="599" alt="image" src="https://github.com/user-attachments/assets/74c1cbe1-1176-4045-ad1e-b01e0542ead4" />
 
 
-
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
 2. Inspected policy permissions attached to groups.  
@@ -83,6 +79,4 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 
 
 ## Conclusion
-This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
-
-
+This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and 
